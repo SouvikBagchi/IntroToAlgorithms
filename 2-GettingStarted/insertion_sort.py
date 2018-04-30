@@ -56,6 +56,7 @@ class InsertionSort():
   for element in array:
    print(element)
 
+#THIS IS FOR TESTING AND EXAMPLE
 y = InsertionSort([4,5,6,2,7])
 final_array = y.sort()
 print(final_array)
