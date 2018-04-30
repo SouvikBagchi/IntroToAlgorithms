@@ -23,7 +23,6 @@ class Quicksort():
    self.sorted = arr
    return arr
 
-
 test_arr = [55,67,21,38,97,45,27,59,82]
 test = Quicksort()
 sorted = test.sort(test_arr)
